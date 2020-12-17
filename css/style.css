@@ -51,13 +51,32 @@ header nav{
   font-weight:bold;
 }
 
-header a:hover{
-  color:#cccccc;
-  font-weight:bold;
-}
 
 header .logo {
 	float: left;
 	margin-left: 50px;
 }
+
+main h1{
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+  color: #4B4D4B;
+}
+
+main .text{
+  float:left;
+  font-family: Garamond, serif;
+  font-size: 15px;
+}
+main .text li{
+  list-style: circle;
+}
+main .logo2{
+  float: left;
+  margin-right: 100px;
+  margin-left: 50px;
+}
+
+
 
